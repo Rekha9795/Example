@@ -1,3 +1,5 @@
 The thing is about git
 
 Creating new branch.
+
+This is the final thing.
